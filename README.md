@@ -8,4 +8,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@Vostokus](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [kovalenkov222@gmail.com](mailto:your-email)</code>
