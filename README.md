@@ -4,7 +4,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, TypeScript, C, C#, Golang </code>
+<code>🧑‍💻 Languages: JavaScript, TypeScript, C, C#, Golang, Python </code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@Vostokus](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@VldKovalenko](https://telegram.me/your-nikname)</code>
 <code>📫 [kovalenkov222@gmail.com](mailto:your-email)</code>
